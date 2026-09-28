@@ -1,0 +1,6 @@
+case_id,client,status,opened_date,document_count
+CASE-1001,Northstar Foods,Open,2026-01-15,245
+CASE-1002,BlueRiver Logistics,Closed,2025-11-03,128
+CASE-1003,Greenfield Health,Open,2026-03-22,512
+CASE-1004,Northstar Foods,Closed,2025-08-09,76
+CASE-1005,Silverline Retail,Open,2026-05-17,340
